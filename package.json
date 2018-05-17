@@ -1,0 +1,27 @@
+{
+  "name": "a11y-types",
+  "version": "0.1.0",
+  "description": "Typescript Definitions for ARIA attribute constants",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natemoo-re/a11y-types.git"
+  },
+  "keywords": [
+    "ARIA",
+    "a11y",
+    "accessibility",
+    "typescript",
+    "definitions",
+    "attributes"
+  ],
+  "author": "Nate Moore <nate@natemoo.re> (http://projects.natemoo.re/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natemoo-re/a11y-types/issues"
+  },
+  "homepage": "https://github.com/natemoo-re/a11y-types#readme"
+}
